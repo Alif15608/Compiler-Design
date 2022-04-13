@@ -1,0 +1,6 @@
+1    Partho   99   3.85
+2    Kafi     86   3.75
+3    Istiak   90   3.70
+4    Rokon    96   3.67
+5    Maharab  86   3.50
+
